@@ -32,7 +32,7 @@ make
 ## Output
 ![Preview](output.png)
 
-[Paper PDF](paper.pdf?raw=true)
+[Paper PDF](paper.pdf)
 
 ## References
 
