@@ -7,6 +7,7 @@ Review paper using BibTeX
 1. Latex 3.1+
 2. Bibtex 0.9+
 3. make 3.8+
+4. git 2.6+
 
 ## How to use
 
